@@ -11,3 +11,5 @@
 - [Dirac Notation -- Markdown Latex](https://github.com/chiyanglin-AStar/Sci-coding/blob/main/Dirac_Notation.md)
 
 more courses : http://www.codingcoffee.org
+
+material most from www or chatgpt 
